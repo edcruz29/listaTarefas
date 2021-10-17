@@ -9,7 +9,7 @@ import AddTask from "./components/AddTask";
 import Tasks from "./components/Tasks";
 import Header from "./components/Header";
 
-import './app.css'
+import './components/app.css'
 import TaskDetails from "./components/TaskDetails";
 
 const App = ()=>{
