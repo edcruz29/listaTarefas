@@ -1,0 +1,22 @@
+
+.task__datails__container{
+    background-color: #7a04eb;
+    margin: 15px 0;
+    padding:15px 20px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    border-radius: 5px;
+   
+}
+.task__datails__container h2{
+    margin-bottom: 5px;
+}
+.back__button__container{
+    width: 30%;
+    margin-top: 10px;
+}
+.task__container__add--button{
+    margin-right: 10px; 
+    margin-left: 0;
+}
