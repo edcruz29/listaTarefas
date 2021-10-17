@@ -1,3 +1,19 @@
+# Lista de Tarefas
+
+## Sobre
+
+O objetivo deste projeto é conmtinuar o aprendizado das funcionalidades básicas do React.
+Foram desenvolvidos os seguintes componentes:
+- **Tasks**
+- **Task**
+- **AddTask** 
+- **Button**
+- **Header**
+- **TaskDetails**
+
+Utilizei a API para criar uma lista de tarefas https://jsonplaceholder.cypress.io/todos?_limit=10
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
