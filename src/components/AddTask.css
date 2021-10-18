@@ -1,20 +1,19 @@
-.task__container__add{
-    margin: 15px 0;
-    width: 100%;
-    display: flex;
+.task__container__add {
+  margin: 15px 0;
+  width: 100%;
+  display: flex;
 }
-.task__container__add--input{
-    height: 40px;
-    padding: 0 10px;
-    border-radius: 5px;
-    border: none;
-    flex: 2;
-    background-color: #fe75fe;
-    color:#fff;
-    font-size: 16px;
-
+.task__container__add--input {
+  height: 40px;
+  padding: 0 10px;
+  border-radius: 5px;
+  border: none;
+  flex: 2;
+  background-color: #fe75fe;
+  color: #fff;
+  font-size: 16px;
 }
-.task__container__add--button{
-    margin-left:10px ;
-    flex: 1;
+.task__container__add--button {
+  margin-left: 10px;
+  flex: 1;
 }

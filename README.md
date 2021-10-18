@@ -13,6 +13,7 @@ Foram desenvolvidos os seguintes componentes:
 
 Utilizei a API para criar uma lista de tarefas https://jsonplaceholder.cypress.io/todos?_limit=10
 
+Próximos passos, criar banco de dados e integrar ao projeto.
 
 # Getting Started with Create React App
 
