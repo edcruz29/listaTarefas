@@ -10,7 +10,6 @@ const Task = ({ task, handleTaskClick, handleTaskRemove }) => {
     history.push(`/${task.title.replace("/", "-")}`);
   };
   return (
- 
     <div
       className="task__container"
       style={task.completed ? { borderLeft: "6px solid #ff00a0" } : {}}

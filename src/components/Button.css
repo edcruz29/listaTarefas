@@ -1,17 +1,17 @@
 .task__container__add--button {
-  background-color: #ff124f;
+  background-color: #a239ca;
   height: 40px;
   padding: 0 10px;
   border-radius: 5px;
   width: 100%;
   font-size: 16px;
-  color: #fff;
+  color: #e7dfdd;
   font-weight: bold;
   cursor: pointer;
   border: none;
   transition: all 0.5s ease;
 }
 .task__container__add--button:hover {
-  background-color: #fff;
-  color: #ff124f;
+  background-color: #e7dfdd;
+  color: #a239ca;
 }

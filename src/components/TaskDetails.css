@@ -4,7 +4,7 @@
   padding: 15px 20px;
   display: flex;
   flex-direction: column;
-  color: #fff;
+  color: #e7dfdd;
   border-radius: 5px;
 }
 .task__datails__container h2 {
@@ -13,8 +13,4 @@
 .back__button__container {
   width: 30%;
   margin-top: 10px;
-}
-.task__container__add--button {
-  margin-right: 10px;
-  margin-left: 0;
 }
